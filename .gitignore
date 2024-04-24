@@ -1,0 +1,9 @@
+# Removing log files
+*/**/*.log
+
+# Removing pycache folder
+*/**/pycache/*
+
+# Removing virtual environment
+pyvenv/*
+venv/*
