@@ -1,0 +1,6 @@
+numpy
+prettytable
+matplotlib
+pandas
+opencv-contrib-python
+scipy
