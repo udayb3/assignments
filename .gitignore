@@ -7,3 +7,6 @@
 # Removing virtual environment
 pyvenv/*
 venv/*
+
+*/test/**/*
+*/data/**/*
